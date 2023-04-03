@@ -34,6 +34,7 @@ function App() {
 
   const clearAll = () => {
     setCalc("");
+    setResult("");
   };
 
   return (
